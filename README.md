@@ -7,9 +7,12 @@ and Monster classes, as well as modification to the Monster Fast and Monster Ste
 they are not easily modified and the program becomes complex.
 ##For instance, adding a new monster which is fast and stealth##: The addition of monster fast and Stealth needs two Super Classes of ( Entity and Monster) ,
 as many inheritance are not preferred by the developer because it is difficult to understand, maintain, debug, and refactor.
+
+
 Q2: A- ![Advance](https://user-images.githubusercontent.com/99614732/194774976-a5fa9a18-2d25-4d09-9d25-fe36885acb78.png)
 
-B- -------
+B- code
+
 C-
   ##Explain how your design fix the design issue mentioned by you in question 1##:
 
